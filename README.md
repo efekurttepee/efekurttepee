@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Merhaba 👋
+Adım Efe, 18 yaşındayım. İstanbul Gelişim Üniversitesinde Bilgisayar Programcılığı bölümü öğrencisiyim. 
 <!--
 **efekurttepee/efekurttepee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
